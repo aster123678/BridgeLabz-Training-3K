@@ -1,4 +1,3 @@
-// this is the starting of the basic java codes for bridgelabz
 import java.util.Scanner;
 
 public class LeapYearCheck {
@@ -17,4 +16,3 @@ public class LeapYearCheck {
         sc.close();
     }
 }
-
