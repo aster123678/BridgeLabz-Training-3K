@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/-BridgeLabz-Training-3K.iml" filepath="$PROJECT_DIR$/.idea/-BridgeLabz-Training-3K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab_practice/lab_practice.iml" filepath="$PROJECT_DIR$/lab_practice/lab_practice.iml" />
     </modules>
   </component>
 </project>
